@@ -1,1 +1,1 @@
-An report generator using AWS
+Automated Report Generator using EventBridge Scheduler
